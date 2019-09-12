@@ -14,6 +14,6 @@
 #include <stdio.h>
 
 int main(int argc, char **argv){
-  printf("Chase Resio\n");
+  printf("Chase Resio, Sajal Risal\n");
   return 0;
 }
